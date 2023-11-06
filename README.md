@@ -2,7 +2,7 @@
 
 
 # Description 
-This Python project utlizes logical conditions, if statements, and data structures (list) to make a humorous security system. 
+This Python project utilizes logical conditions, if statements, and data structures (list) to make a humorous security robot. The robot asks users their name and allows them to be added or removed from the security system.
 
 <h2>Language and Utilities Used</h2>
 
