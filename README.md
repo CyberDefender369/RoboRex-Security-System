@@ -33,25 +33,18 @@ A while loop was used for basic user validation. Better methods may exist, so fu
 ![screenshot_2](https://github.com/user-attachments/assets/d30a7d8c-7dcc-4f76-9402-bb58fb5c2b00)
 
 ### Scenario 3
-  
 - The security system does not identify the user.
 - The user agrees to be added to the system.
 
 ![screenshot_3](https://github.com/user-attachments/assets/70e1eec9-bf18-4ca2-963f-7d509dda6f68)
 
 ### Scenario 4
-
 - The security system does not identify the user.
 - The user declines to be added to the system.
   
 ![screenshot_4](https://github.com/user-attachments/assets/44a70a95-4356-4e9a-8691-c0cf38f04e7b)
 
-
 ### Scenario 5
+- Input validation
 
-### Scenario 6
-
-  
-- Security system does not recognize user.
--  and user declines to be added to the system. 
-
+![screenshot_5](https://github.com/user-attachments/assets/e423b934-b4b5-4bb8-ac52-4d2c22de3e69)
