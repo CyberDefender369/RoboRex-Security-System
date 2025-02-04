@@ -14,6 +14,10 @@ This Python program utilizes essential programming principles, including control
 - Windows 11
 
 
+## Notes
+An else statement was used for basic user validation. While it may not be the most accurate method for validating user input, it is effective in this context. User validation will be correctly implemented in all future programs.
+
+
 # Project Walk-Through:
 - Security system recognizes user.
 - User consents to removal from the system.
