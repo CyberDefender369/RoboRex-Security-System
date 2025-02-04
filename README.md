@@ -19,12 +19,15 @@ A while loop was used for basic user validation. Better methods may exist, so fu
 
 
 # Project Walk-Through:
-- Security system recognizes user.
-- User consents to removal from the system.
-
+- The security system identifies the user.
+- The user consents to be removed from the system.
   
-- Security system recognizes user.
--  and user declines to be removed from the system. 
+![screenshot_1](https://github.com/user-attachments/assets/bdce7d62-7b82-49a0-b829-67909ae6f67c)
+
+- The security system identifies the user.
+- The user declines to be removed from the system.
+
+![screenshot_2](https://github.com/user-attachments/assets/d30a7d8c-7dcc-4f76-9402-bb58fb5c2b00)
 
 
   
