@@ -15,7 +15,7 @@ This Python program utilizes essential programming principles, including control
 
 
 ## Notes
-An else statement was used for basic user validation. While it may not be the most accurate method for validating user input, it is effective in this context. User validation will be correctly implemented in all future programs.
+A while loop was used for basic user validation. Better methods may exist, so further exploration is planned for future implementation. 
 
 
 # Project Walk-Through:
