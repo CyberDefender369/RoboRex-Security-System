@@ -1,7 +1,7 @@
 # RoboRex Security System
 
 
-# Description 
+## Description 
 This Python program utilizes essential programming principles, including control flow statements and data structures, to develop a straightforward security system. The system engages with users by requesting their names and allows them to add or remove themselves from the security database.
 
 
